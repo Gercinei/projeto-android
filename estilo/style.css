@@ -94,14 +94,14 @@ main {
     border-radius: 0px 0px 10px 10px;
 }
 
-main > article > h1 {
+main h1 {
     color: var(--cor5);
     font-family: var(--fonte-android);
     font-weight: normal;
     font-size: 1.8em;
 }
 
-main > article > h2 {
+main h2 {
     font-family: var(--fonte-android);
     font-weight: normal;
     color: var(--cor4);
